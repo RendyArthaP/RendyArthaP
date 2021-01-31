@@ -7,8 +7,8 @@
 - 🏣 I was work at front end developer 4 months ago.
 - 🎖 Decided to focused on React since Januari 2021.
 - 🧗 Still Learning about Full Stack, and more deeper about Javascript.
-- 🏆 I will practice another languange after i'm good at Javascript.
-- 🐭 I choose Golang to be my next learning journey.
+- 🏆 Open for freelance or opportunity.
+- 🐉 Now i'm join bootcamp with Impact Byte.
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
