@@ -9,6 +9,7 @@
 - 🧗  Still Learning about Full Stack, and more deeper about Javascript.
 - 🏆  Open for freelance or opportunity.
 - 🐉  Now i'm join bootcamp with Impact Byte.
+- 🧠  I do codewars every single day, to practice my skill code, and my logic.
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
