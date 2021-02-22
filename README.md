@@ -9,6 +9,10 @@
 - 🏆  Open for freelance or opportunity.
 - 🐉  Now i'm join bootcamp with Impact Byte.
 - 🧠  I do codewars every single day, to practice my skill code, and my logic.
+ 
+<br />
+
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=RendyArthaP&show_icons=true&theme=gotham" alt="rendyarthap" />
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
