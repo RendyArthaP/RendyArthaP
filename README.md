@@ -1,5 +1,5 @@
-### Hi there, I'm Rendy 🚀 🚀
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rendy 🚀 🚀
+![](https://visitor-badge.glitch.me/badge?page_id=RendyArthap.RendyArthap)
 ## I'm addicted with Javascript especially React from now!
 
 - 🎉  Starting learning programming since January 2020, and focusing at July 2020.
