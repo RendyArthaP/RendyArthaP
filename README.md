@@ -10,16 +10,11 @@
 - 🐉  Now i'm join bootcamp with Impact Byte.
 - 🧠  I do codewars every single day, to practice my skill code, and my logic.
  
-<br />
-
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=RendyArthaP&show_icons=true&theme=gotham" alt="rendyarthap" />
-
 ### Connect with me:
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <img align="left" alt="codewars" width="22px" src="https://api.iconify.design/simple-icons:codewars.svg"/>
-
 
 <br />
 <br />
@@ -35,3 +30,8 @@
 <img align="left" alt="tailwind" width="26px" src="https://user-images.githubusercontent.com/62580407/106248318-66164b00-6243-11eb-922a-e8cb90176b69.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=RendyArthaP&show_icons=true&theme=gotham" alt="rendyarthap" />
