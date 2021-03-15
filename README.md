@@ -2,7 +2,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=RendyArthap.RendyArthap)
 ## I'm addicted with Javascript!
 
-- 🎉  Starting learning programming since January 2020, and focusing at July 2020.
 - 🌄  My first languange is Javascript.
 - 🏣  I was work at front end developer 4 months ago.
 - 🧗  Still Learning about Full Stack, and more deeper about Javascript.
